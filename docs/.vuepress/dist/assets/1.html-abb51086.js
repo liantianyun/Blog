@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6367e3ff","path":"/books/buyHouse/1.html","title":"前言","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680872486000},"filePathRelative":"books/buyHouse/1.md"}');export{e as data};
