@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-dc68e166","path":"/tech/career/workExperience.html","title":"毕业一年来我的前端之路总结和谈谈大厂外包工作体验","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680960780000},"filePathRelative":"tech/career/workExperience.md"}');export{e as data};
