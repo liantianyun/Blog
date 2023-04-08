@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-4f3875d8","path":"/diary/2023/04/01.html","title":"04/01 酿豆腐、考研","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"酿豆腐","slug":"酿豆腐","link":"#酿豆腐","children":[]},{"level":2,"title":"考研","slug":"考研","link":"#考研","children":[]}],"git":{"updatedTime":1680942359000},"filePathRelative":"diary/2023/04/01.md"}');export{e as data};

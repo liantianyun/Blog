@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5456ffb5","path":"/diary/2023/04/04.html","title":"04/04 没有选择的好处","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"少即是多","slug":"少即是多","link":"#少即是多","children":[]},{"level":2,"title":"梯子合购","slug":"梯子合购","link":"#梯子合购","children":[]}],"git":{"updatedTime":1680942359000},"filePathRelative":"diary/2023/04/04.md"}');export{e as data};

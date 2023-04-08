@@ -2,14 +2,10 @@ import { defineUserConfig, defaultTheme   } from "vuepress";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 import { searchPlugin } from '@vuepress/plugin-search';
 export default defineUserConfig ({
-  title: '练天运',
+  title: '练天运的网络日志',
   description: 'Just playing around',
+  head: [['link', { rel: 'icon', href: '/images/book.png' }]],
   theme: defaultTheme({
-    locales: {
-      '/': {
-        lang: 'zh-CN'
-      }
-    },
     navbar: [
       {
         text: '首页',
@@ -23,12 +19,56 @@ export default defineUserConfig ({
         text: '阅读',
         link: '/books',
       },
+      {
+        text: '作文',
+        link: '/articles',
+      },
+      {
+        text: '技术',
+        link: '/tech',
+      },
     ],
     sidebar: {
       '/books': [
         {
           text: '阅读',
           link: '/books',
+        }
+      ],
+      '/articles': [
+        {
+          text: '作文',
+          link: '/articles',
+          children: [
+            '/articles/mum'
+          ]
+        }
+      ],
+      '/tech': [
+        {
+          text: '技术',
+          link: '/tech',
+          children: [
+            {
+              text: 'React',
+              collapsible: true,
+              children: [
+                '/tech/react/understandFc.md'
+              ]
+            },
+            {
+              text: '工程化',
+              children: [
+                '/tech/engineering/packageManager.md'
+              ]
+            },
+            {
+              text: '职业生涯',
+              children: [
+                '/tech/career/workExperience.md'
+              ]
+            },
+          ]
         }
       ],
       '/diary': [
@@ -91,6 +131,7 @@ export default defineUserConfig ({
     backToHome: '回到首页',
     contributors: false,
     lastUpdatedText: '编辑时间',
+    logo: '/images/logo.png'
   }),
   plugins: [
     googleAnalyticsPlugin({

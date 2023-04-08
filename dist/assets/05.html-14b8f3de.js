@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-560bd854","path":"/diary/2023/04/05.html","title":"04/06 热爱与写作","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"关于写作","slug":"关于写作","link":"#关于写作","children":[]}],"git":{"updatedTime":1680942359000},"filePathRelative":"diary/2023/04/05.md"}');export{e as data};
