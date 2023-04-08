@@ -50,7 +50,7 @@
 本站利用[VuePress2](https://v2.vuepress.vuejs.org/zh/)搭建，代码仓库托管在Github上，如果您对本站的源代码感兴趣，可以点击[这里](https://github.com/liantianyun/Blog)
 
 如果你对我作为工程师的技术能力感兴趣：
-* 可以查阅本站的"技术"分类
+* 可以查阅本站的"[技术](/tech)"分类
 * 可以访问我的[github](https://github.com/liantianyun)主页
 ### 其它
 其它平台，如知乎、B站、语雀、小红书等，因相关产出内容还不多，可以等后面再陆续接入。

@@ -51,7 +51,6 @@ export default defineUserConfig ({
           children: [
             {
               text: 'React',
-              collapsible: true,
               children: [
                 '/tech/react/understandFc.md'
               ]
@@ -78,7 +77,6 @@ export default defineUserConfig ({
         },
         {
           text: '2023年',
-          collapsible: true,
           children: [
             {
               text: '三月',
@@ -105,7 +103,6 @@ export default defineUserConfig ({
             },
             {
               text: '四月',
-              collapsible: true,
               children: [
                 '/diary/2023/04/01',
                 '/diary/2023/04/02',
@@ -114,6 +111,7 @@ export default defineUserConfig ({
                 '/diary/2023/04/05',
                 '/diary/2023/04/06',
                 '/diary/2023/04/07',
+                '/diary/2023/04/08',
               ]
             }
           ]
