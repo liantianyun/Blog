@@ -5,6 +5,11 @@ export default defineUserConfig ({
   title: '练天运',
   description: 'Just playing around',
   theme: defaultTheme({
+    locales: {
+      '/': {
+        lang: 'zh-CN'
+      }
+    },
     navbar: [
       {
         text: '首页',
