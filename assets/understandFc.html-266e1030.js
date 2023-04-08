@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-99f87a64","path":"/tech/react/understandFc.html","title":"如何理解函数式组件?","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680960780000},"filePathRelative":"tech/react/understandFc.md"}');export{t as data};
