@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-59758992","path":"/diary/2023/04/07.html","title":"04/07 生活是具体的","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680942359000},"filePathRelative":"diary/2023/04/07.md"}');export{t as data};

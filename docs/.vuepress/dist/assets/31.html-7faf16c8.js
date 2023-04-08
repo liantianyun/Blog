@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-59a6b89a","path":"/diary/2023/03/31.html","title":"03/31 我与游戏的过去","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680942359000},"filePathRelative":"diary/2023/03/31.md"}');export{a as data};
