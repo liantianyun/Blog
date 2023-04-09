@@ -50,6 +50,19 @@ export default defineUserConfig ({
           link: '/tech',
           children: [
             {
+              text: '计算机网络',
+              children: [
+                '/tech/softEngine/network.md'
+              ]
+            },
+            {
+              text: '数据结构和算法',
+              children: [
+                '/tech/dataStruct/listNode.md',
+                '/tech/dataStruct/hashMap.md'
+              ]
+            },
+            {
               text: 'React',
               children: [
                 '/tech/react/understandFc.md'
@@ -59,6 +72,12 @@ export default defineUserConfig ({
               text: '工程化',
               children: [
                 '/tech/engineering/packageManager.md'
+              ]
+            },
+            {
+              text: 'VuePress2',
+              children: [
+                '/tech/vuePress2/build.md'
               ]
             },
             {
