@@ -32,7 +32,7 @@ export default defineUserConfig ({
       '/books': [
         {
           text: '阅读',
-          link: '/books',
+          link: '/books'
         }
       ],
       '/articles': [
@@ -134,6 +134,7 @@ export default defineUserConfig ({
                 '/diary/2023/04/09',
                 '/diary/2023/04/10',
                 '/diary/2023/04/11',
+                '/diary/2023/04/12',
               ]
             }
           ]
