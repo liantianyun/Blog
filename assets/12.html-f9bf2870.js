@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f458ec90","path":"/diary/2023/04/12.html","title":"04/12 “爱情观”","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681319484000},"filePathRelative":"diary/2023/04/12.md"}');export{e as data};
