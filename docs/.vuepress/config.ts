@@ -1,6 +1,7 @@
 import { defineUserConfig, defaultTheme   } from "vuepress";
 import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 import { searchPlugin } from '@vuepress/plugin-search';
+import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 export default defineUserConfig ({
   title: '练天运的网络日志',
   description: 'Just playing around',
@@ -161,5 +162,8 @@ export default defineUserConfig ({
       id: 'G-M13Y7T8PT8'
     }),
     searchPlugin(),
+    sitemapPlugin({
+      hostname: 'https://liantianyun.github.io/'
+    })
   ]
 });
