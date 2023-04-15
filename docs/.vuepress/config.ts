@@ -5,7 +5,10 @@ import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 export default defineUserConfig ({
   title: '练天运的网络日志',
   description: 'Just playing around',
-  head: [['link', { rel: 'icon', href: '/images/book.png' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/images/book.png' }],
+    ['meta', { name: 'baidu-site-verification', content: 'codeva-DHZhDn4jST' }]
+  ],
   theme: defaultTheme({
     navbar: [
       {
