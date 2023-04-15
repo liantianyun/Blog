@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3b9ce2f0","path":"/draft/04/16.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"不自量力的经济学","slug":"不自量力的经济学","link":"#不自量力的经济学","children":[]}],"git":{"updatedTime":1681588219000},"filePathRelative":"draft/04/16.md"}');export{e as data};
