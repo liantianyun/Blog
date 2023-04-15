@@ -7,7 +7,7 @@ export default defineUserConfig ({
   description: 'Just playing around',
   head: [
     ['link', { rel: 'icon', href: '/images/book.png' }],
-    ['meta', { name: 'baidu-site-verification', content: 'codeva-DHZhDn4jST' }]
+    ['meta', { name: 'baidu-site-verification', content: 'codeva-DhpnfJpQZa' }]
   ],
   theme: defaultTheme({
     navbar: [
