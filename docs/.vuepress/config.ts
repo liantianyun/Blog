@@ -166,7 +166,7 @@ export default defineUserConfig ({
     }),
     searchPlugin(),
     sitemapPlugin({
-      hostname: 'https://liantianyun.github.io/'
+      hostname: 'http://www.liantianyun.top/'
     })
   ]
 });
