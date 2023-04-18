@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-dfdec51c","path":"/diary/2023/04/18.html","title":"世界在变化，你该如何自处？","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1681838623000},"filePathRelative":"diary/2023/04/18.md"}');export{e as data};
