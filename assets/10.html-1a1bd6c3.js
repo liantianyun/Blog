@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-fb2c4f0c","path":"/diary/2023/04/10.html","title":"记一次久违的联络","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682099912000},"filePathRelative":"diary/2023/04/10.md"}');export{t as data};

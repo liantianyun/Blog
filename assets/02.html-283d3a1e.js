@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-50ed4e77","path":"/diary/2023/04/02.html","title":"04/02 传记、历史、目标","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1680942359000},"filePathRelative":"diary/2023/04/02.md"}');export{e as data};

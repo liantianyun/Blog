@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0bd1545c","path":"/diary/2023/03/17.html","title":"技术决定历史","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682099912000},"filePathRelative":"diary/2023/03/17.md"}');export{t as data};

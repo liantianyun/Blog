@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f7c29dce","path":"/diary/2023/04/11.html","title":"电视剧《人生之路》","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682099912000},"filePathRelative":"diary/2023/04/11.md"}');export{e as data};

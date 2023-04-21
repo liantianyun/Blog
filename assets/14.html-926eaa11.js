@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ed858a14","path":"/diary/2023/04/14.html","title":"读者来信、工程师的等级","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682099912000},"filePathRelative":"diary/2023/04/14.md"}');export{e as data};
