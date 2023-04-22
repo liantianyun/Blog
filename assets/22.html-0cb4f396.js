@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8a8c760e","path":"/diary/2023/04/22.html","title":"生活的减法与短视频","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682189034000},"filePathRelative":"diary/2023/04/22.md"}');export{e as data};

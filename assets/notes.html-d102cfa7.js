@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-29f71c80","path":"/books/lastDaysWorld/notes.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682189034000},"filePathRelative":"books/lastDaysWorld/notes.md"}');export{t as data};
