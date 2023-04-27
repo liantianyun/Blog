@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-797bffd8","path":"/diary/2023/04/27.html","title":"我的金钱观（一）","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1682617642000},"filePathRelative":"diary/2023/04/27.md"}');export{t as data};
