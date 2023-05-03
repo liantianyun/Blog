@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-30191472","path":"/diary/2023/05/1.html","title":"漳州游记：漳州城的小吃","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683124934000},"filePathRelative":"diary/2023/05/1.md"}');export{t as data};
