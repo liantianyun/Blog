@@ -126,6 +126,7 @@ export default defineUserConfig ({
             },
             {
               text: '四月',
+              collapsible: true,
               children: [
                 '/diary/2023/04/01',
                 '/diary/2023/04/02',
@@ -153,6 +154,15 @@ export default defineUserConfig ({
                 '/diary/2023/04/24',
                 '/diary/2023/04/25',
                 '/diary/2023/04/27',
+                '/diary/2023/04/28',
+                '/diary/2023/04/29',
+                '/diary/2023/04/30',
+              ]
+            },
+            {
+              text: '五月',
+              children: [
+                '/diary/2023/05/1.md'
               ]
             }
           ]
