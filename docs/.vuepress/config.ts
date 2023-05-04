@@ -162,7 +162,8 @@ export default defineUserConfig ({
             {
               text: '五月',
               children: [
-                '/diary/2023/05/1.md'
+                '/diary/2023/05/1.md',
+                '/diary/2023/05/4.md',
               ]
             }
           ]
