@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-22724f7a","path":"/diary/2023/05/5.html","title":"通识教育","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683298516000},"filePathRelative":"diary/2023/05/5.md"}');export{t as data};
