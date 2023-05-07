@@ -164,6 +164,9 @@ export default defineUserConfig ({
               children: [
                 '/diary/2023/05/1.md',
                 '/diary/2023/05/4.md',
+                '/diary/2023/05/5.md',
+                '/diary/2023/05/6.md',
+                '/diary/2023/05/7.md',
               ]
             }
           ]
