@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1f089e3c","path":"/diary/2023/05/6.html","title":"区块链是什么？","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683477583000},"filePathRelative":"diary/2023/05/6.md"}');export{e as data};
