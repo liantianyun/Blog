@@ -1,0 +1,1 @@
+const E=JSON.parse('{"key":"v-038c9287","path":"/books/%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1%E6%97%B6%E9%92%88%E5%AF%B9%E5%BC%80%E5%8F%91%E5%B1%82%E9%9D%A2%E7%9A%84%E6%A0%B8%E5%BF%83%E8%A6%81%E7%B4%A0.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683720287000},"filePathRelative":"books/框架设计时针对开发层面的核心要素.md"}');export{E as data};
