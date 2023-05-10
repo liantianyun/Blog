@@ -168,6 +168,8 @@ export default defineUserConfig ({
                 '/diary/2023/05/6.md',
                 '/diary/2023/05/7.md',
                 '/diary/2023/05/8.md',
+                '/diary/2023/05/9.md',
+                '/diary/2023/05/10.md',
               ]
             }
           ]
