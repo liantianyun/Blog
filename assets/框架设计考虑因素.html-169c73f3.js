@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-371a39a6","path":"/books/%E6%A1%86%E6%9E%B6%E8%AE%BE%E8%AE%A1%E8%80%83%E8%99%91%E5%9B%A0%E7%B4%A0.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1683690184000},"filePathRelative":"books/框架设计考虑因素.md"}');export{t as data};
