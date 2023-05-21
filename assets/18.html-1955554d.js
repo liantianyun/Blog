@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-24550c73","path":"/diary/2023/05/18.html","title":"不会称赞、也不会接受的称赞的中国人","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1684687890000},"filePathRelative":"diary/2023/05/18.md"}');export{t as data};
