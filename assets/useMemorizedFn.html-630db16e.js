@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0ee40900","path":"/tech/react/ahooks/useMemorizedFn.html","title":"useMemorizedFn","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1685201507000},"filePathRelative":"tech/react/ahooks/useMemorizedFn.md"}');export{e as data};
