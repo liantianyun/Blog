@@ -73,6 +73,12 @@ export default defineUserConfig ({
               ]
             },
             {
+              text: 'ahooks源码',
+              children: [
+                '/tech/react/ahooks/useMemorizedFn.md'
+              ]
+            },
+            {
               text: '工程化',
               children: [
                 '/tech/engineering/packageManager.md'
@@ -183,6 +189,7 @@ export default defineUserConfig ({
                 '/diary/2023/05/21.md',
                 '/diary/2023/05/22.md',
                 '/diary/2023/05/23.md',
+                '/diary/2023/05/24.md',
               ]
             }
           ]
