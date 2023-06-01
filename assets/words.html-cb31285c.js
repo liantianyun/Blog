@@ -1,0 +1,1 @@
+import{_ as e,p as s,q as t,R as o}from"./framework-5866ffd3.js";const r={},_=o("p",null,"所谓“阅读的人”(readers)，是指那些今天仍然习惯于从书写文字中汲取大量资讯，以增进对世界了解的人，就和过去历史上每一个深有教养、智慧的人别无二致。",-1),c=[_];function n(a,l){return s(),t("div",null,c)}const f=e(r,[["render",n],["__file","words.html.vue"]]);export{f as default};
