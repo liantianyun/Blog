@@ -44,7 +44,8 @@ export default defineUserConfig ({
           text: '作文',
           link: '/articles',
           children: [
-            '/articles/mum'
+            '/articles/mum',
+            '/articles/yhhwd3'
           ]
         }
       ],
@@ -56,7 +57,7 @@ export default defineUserConfig ({
             {
               text: '计算机网络',
               children: [
-                '/tech/softEngine/network.md'
+                '/tech/softEngine/network.md',
               ]
             },
             {
@@ -76,6 +77,14 @@ export default defineUserConfig ({
               text: 'ahooks源码',
               children: [
                 '/tech/react/ahooks/useMemorizedFn.md'
+              ]
+            },
+            {
+              text: '算法',
+              children: [
+                '/tech/jszh/maxCountTotal.md',
+                '/tech/jszh/maxCountTotal2.md',
+                '/tech/jszh/maxCountTotal3.md',
               ]
             },
             {
