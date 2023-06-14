@@ -45,7 +45,8 @@ export default defineUserConfig ({
           link: '/articles',
           children: [
             '/articles/mum',
-            '/articles/yhhwd3'
+            '/articles/yhhwd3',
+            '/articles/cfzy'
           ]
         }
       ],
@@ -64,7 +65,8 @@ export default defineUserConfig ({
               text: '数据结构和算法',
               children: [
                 '/tech/dataStruct/listNode.md',
-                '/tech/dataStruct/hashMap.md'
+                '/tech/dataStruct/hashMap.md',
+                '/tech/jszh/binaryAdd.md',
               ]
             },
             {
