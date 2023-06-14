@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-d77a36c4","path":"/articles/cfzy.html","title":"财富自由之后","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1686754300000},"filePathRelative":"articles/cfzy.md"}');export{t as data};
