@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-790ef5d4","path":"/books/kylx/c1.html","title":"有目的的练习。","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1686850313000},"filePathRelative":"books/kylx/c1.md"}');export{e as data};
