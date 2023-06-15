@@ -208,6 +208,8 @@ export default defineUserConfig ({
               text: '六月',
               children: [
                 '/diary/2023/06/01.md',
+                '/diary/2023/06/02.md',
+                '/diary/2023/06/15.md',
               ]
             }
           ]
