@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-32a7578e","path":"/diary/2023/06/24.html","title":"06/24 《活着》、《福贵》","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1687801264000},"filePathRelative":"diary/2023/06/24.md"}');export{e as data};

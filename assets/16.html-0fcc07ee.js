@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-95a06b94","path":"/diary/2023/06/16.html","title":"06/16 《变形金刚》真无聊……","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1687801264000},"filePathRelative":"diary/2023/06/16.md"}');export{t as data};

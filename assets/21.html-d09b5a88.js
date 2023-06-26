@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3ce46b48","path":"/diary/2023/06/21.html","title":"06/21 你想过什么样的生活？","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1687801264000},"filePathRelative":"diary/2023/06/21.md"}');export{e as data};
