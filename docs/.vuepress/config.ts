@@ -46,7 +46,8 @@ export default defineUserConfig ({
           children: [
             '/articles/mum',
             '/articles/yhhwd3',
-            '/articles/cfzy'
+            '/articles/cfzy',
+            '/articles/howToReadDiary',
           ]
         }
       ],
@@ -210,6 +211,13 @@ export default defineUserConfig ({
                 '/diary/2023/06/01.md',
                 '/diary/2023/06/02.md',
                 '/diary/2023/06/15.md',
+                '/diary/2023/06/16.md',
+                '/diary/2023/06/17.md',
+                '/diary/2023/06/18.md',
+                '/diary/2023/06/19.md',
+                '/diary/2023/06/20.md',
+                '/diary/2023/06/21.md',
+                '/diary/2023/06/22.md',
               ]
             }
           ]
