@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2196e158","path":"/diary/2023/06/29.html","title":"06/29 人是如何通过阅读获益的？","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1688060479000},"filePathRelative":"diary/2023/06/29.md"}');export{e as data};
