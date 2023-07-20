@@ -48,6 +48,7 @@ export default defineUserConfig ({
             '/articles/yhhwd3',
             '/articles/cfzy',
             '/articles/howToReadDiary',
+            '/articles/multiculture',
           ]
         }
       ],
@@ -67,7 +68,7 @@ export default defineUserConfig ({
               children: [
                 '/tech/dataStruct/listNode.md',
                 '/tech/dataStruct/hashMap.md',
-                '/tech/jszh/binaryAdd.md',
+                '/tech/dataStruct/shuzu.md',
               ]
             },
             {
@@ -83,8 +84,9 @@ export default defineUserConfig ({
               ]
             },
             {
-              text: '算法',
+              text: '《计算之魂》',
               children: [
+                '/tech/jszh/binaryAdd.md',
                 '/tech/jszh/maxCountTotal.md',
                 '/tech/jszh/maxCountTotal2.md',
                 '/tech/jszh/maxCountTotal3.md',
@@ -207,6 +209,7 @@ export default defineUserConfig ({
             },
             {
               text: '六月',
+              collapsible: true,
               children: [
                 '/diary/2023/06/01.md',
                 '/diary/2023/06/02.md',
@@ -218,6 +221,24 @@ export default defineUserConfig ({
                 '/diary/2023/06/20.md',
                 '/diary/2023/06/21.md',
                 '/diary/2023/06/22.md',
+                '/diary/2023/06/24.md',
+                '/diary/2023/06/25.md',
+                '/diary/2023/06/26.md',
+                '/diary/2023/06/27.md',
+                '/diary/2023/06/28.md',
+                '/diary/2023/06/29.md',
+                '/diary/2023/06/30.md',
+              ]
+            },
+            {
+              text: '七月',
+              children: [
+                '/diary/2023/07/01.md',
+                '/diary/2023/07/02.md',
+                '/diary/2023/07/03.md',
+                '/diary/2023/07/04.md',
+                '/diary/2023/07/05.md',
+                '/diary/2023/07/06.md',
               ]
             }
           ]
