@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40ebfe1c","path":"/diary/2023/07/11.html","title":"无痛胃肠镜指南","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689869602000},"filePathRelative":"diary/2023/07/11.md"}');export{e as data};

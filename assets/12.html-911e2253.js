@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-42a0d6bb","path":"/diary/2023/07/12.html","title":"07/12 李健的文章","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"读书的“无用”与“有用”","slug":"读书的-无用-与-有用","link":"#读书的-无用-与-有用","children":[]}],"git":{"updatedTime":1689869602000},"filePathRelative":"diary/2023/07/12.md"}');export{e as data};

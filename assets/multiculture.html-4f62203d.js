@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7e30ee0b","path":"/articles/multiculture.html","title":"多元化文化","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1689869602000},"filePathRelative":"articles/multiculture.md"}');export{e as data};
