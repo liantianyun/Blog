@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7ca59bd9","path":"/diary/2023/07/25.html","title":"第二章 欺凌","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1691001010000},"filePathRelative":"diary/2023/07/25.md"}');export{t as data};

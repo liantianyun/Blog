@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bc01eb0a","path":"/diary/2023/08/02.html","title":"08/02 部门调整","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1691001010000},"filePathRelative":"diary/2023/08/02.md"}');export{e as data};

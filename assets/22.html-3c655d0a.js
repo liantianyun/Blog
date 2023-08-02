@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-778711fc","path":"/diary/2023/07/22.html","title":"07/22 \\"拳击教练\\"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1691001010000},"filePathRelative":"diary/2023/07/22.md"}');export{t as data};
