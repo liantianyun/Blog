@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0a16a85e","path":"/diary/2023/08/21.html","title":"08/21 聊天的本质","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1693676618000},"filePathRelative":"diary/2023/08/21.md"}');export{a as data};

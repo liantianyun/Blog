@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-a787c396","path":"/diary/2023/08/08.html","title":"蒙提霍尔问题","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1693676618000},"filePathRelative":"diary/2023/08/08.md"}');export{t as data};
