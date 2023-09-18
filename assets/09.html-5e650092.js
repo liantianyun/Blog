@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-423565d5","path":"/diary/2023/09/09.html","title":"09/10 关于“婚礼司仪”","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1695049235000},"filePathRelative":"diary/2023/09/09.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-39ad2aba","path":"/diary/2023/09/04.html","title":"亚洲人的数学为什么比美国人好？","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1695049235000},"filePathRelative":"diary/2023/09/04.md"}');export{a as data};
